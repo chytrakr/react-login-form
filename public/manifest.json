@@ -1,0 +1,8 @@
+{
+  "short_name": "React Login Form",
+  "name": "React Login Form",
+  "start_url": "/send-sms",
+  "display": "standalone",
+  "theme_color": "rgb(23, 105, 170)",
+  "background_color": "rgb(23, 105, 170)"
+}

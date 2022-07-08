@@ -1,0 +1,22 @@
+.logo {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.logo .img {
+  width: 36px;
+  display: block;
+}
+.logo .label {
+  margin: 0 52px 0 8px;
+  font-size: 24px;
+  font-weight: bold;
+}
+.MuiTypography-h6 {
+  font-weight: 600 !important;
+}
+
+.MuiList-padding {
+  padding-top: 0px !important;
+}
+
